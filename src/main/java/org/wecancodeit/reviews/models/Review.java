@@ -1,5 +1,5 @@
-package org.wecancoeit.reviews.models;
-import org.wecancoeit.reviews.ReviewCategory;
+package org.wecancodeit.reviews.models;
+import org.wecancodeit.reviews.ReviewCategory;
 
 public class Review {
 

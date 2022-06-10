@@ -1,4 +1,4 @@
-package org.wecancoeit.reviews;
+package org.wecancodeit.reviews;
 
 public enum ReviewCategory {
 

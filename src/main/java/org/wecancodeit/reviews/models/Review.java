@@ -15,8 +15,9 @@ public class Review {
     public String getContent() {return content;}
 
     // Constructor
-    public Review(long id, String title, String imageUrl, String content) {
+    public Review(long id, ReviewCategory category, String title, String imageUrl, String content) {
         this.id = id;
+        this.reviewCategory = category;
         this.title = title;
         this.imageUrl = imageUrl;
         this.content = content;
